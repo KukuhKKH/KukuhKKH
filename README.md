@@ -1,7 +1,7 @@
 ### Hi there, I'm Kukuh - aka KukuhKKH 👋
 
 ## I'm a Student, Developer, Dreamer!
-- 🔭 I’m currently working on a **VS Code Course**!
+- 🔭 I’m currently working on a **Alfath Teknologi Kreatif**!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
