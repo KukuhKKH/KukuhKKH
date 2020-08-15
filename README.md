@@ -39,7 +39,7 @@
 
 <br />
 
-<img align="left" alt="KukuhKKH's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kukuhkkh&show_icons=true&hide_border=true" />
+<img align="left" alt="KukuhKKH's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kukuhkkh" />
 
 [twitter]: https://twitter.com/kukuhkkh
 [instagram]: https://instagram.com/kukuhkkh
